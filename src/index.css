@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Montserrat" !important;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.contained-btn {
+  background-color: #00A884;
+  color: white;
+  padding: 5px 20px;
+  height: 40px;
+  text-transform: uppercase;
+}
+
+.file-input {
+  border: none !important;
+}
