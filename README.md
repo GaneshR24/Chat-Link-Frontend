@@ -17,3 +17,8 @@ This is the frontend code for Chat Link, a real-time chat application that allow
 **•**  **Typing indicators**: Chat Link displays typing indicators when someone is typing a message, so users know that someone is working on a response.
 
 **•**  **User search**: Chat Link allows users to search for other users and start a conversation with them.
+
+### Demo credentials:
+**Person A Email:** person.a@gmail.com | **Password:** persona123
+
+**Person B Email:** person.b@gmail.com | **Password:** personb123
